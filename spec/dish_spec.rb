@@ -1,5 +1,6 @@
 require 'dish'
 
-describe dish do
+describe Dish do
+
 	let(:dish){Dish.new}
 end
