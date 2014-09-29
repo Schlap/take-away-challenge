@@ -6,7 +6,7 @@ def initialize
 	@dish = []
 	end
 
-def set(dish)
+def set(*dish)
 	@dish << dish
 	end
 
